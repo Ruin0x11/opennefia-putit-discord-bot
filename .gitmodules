@@ -1,0 +1,3 @@
+[submodule "OpenNefia"]
+	path = OpenNefia
+	url = git@github.com:ruin0x11/OpenNefia
