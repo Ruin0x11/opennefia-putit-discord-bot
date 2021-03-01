@@ -9,6 +9,8 @@ lit install SinisterRectus/discordia
 luvit main.lua
 ```
 
+You might have to manually unpack an Elona 1.22 install from `deps/elona` into `graphic/` and `mod/elona/sound/`, but after that it should be fine.
+
 ## Usage
 
 - `!help` - Lists commands.
