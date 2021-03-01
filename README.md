@@ -12,7 +12,8 @@ return {
 }
 ```
 
-2. ```
+2. 
+```
 lit install SinisterRectus/discordia
 luvit main.lua
 ```
