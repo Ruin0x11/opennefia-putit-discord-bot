@@ -12,9 +12,15 @@ return {
 }
 ```
 
-2. 
+2. Install luvit and discordia.
+
 ```
 lit install SinisterRectus/discordia
+```
+
+3. Run the bot.
+
+```
 luvit main.lua
 ```
 
