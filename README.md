@@ -4,7 +4,15 @@ Small test for a potential Discord bot. It's written in Lua and loads the entire
 
 ## Installation
 
+1. Put the bot's token into a `secret.lua` file that looks like this.
+
+``` lua
+return {
+   token = "<bot client key>"
+}
 ```
+
+2. ```
 lit install SinisterRectus/discordia
 luvit main.lua
 ```
